@@ -19,7 +19,7 @@ I enjoy working with structured and unstructured data, building predictive model
 ### 🛍️ DS_Shopper Spectrum: Customer Segmentation & Recommendations  
 Segmented customers based on purchase behavior using K-Means and generated recommendations.  
 **Tech Used:** Python, scikit-learn, EDA, Feature Engineering  
-🔗 [View Project](https://github.com/THEERTHA-HARIDAS/-Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce/blob/main/README.md)
+🔗 [View Project](https://github.com/THEERTHA-HARIDAS/-Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce)
 
 ---
 
